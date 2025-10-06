@@ -101,7 +101,7 @@ Ignora:
 Mantendo o repositório **limpo e organizado** ✅
 
 ---
-```
+
 
 
 ## 🧭 Diagrama UML Simplificado
@@ -127,6 +127,8 @@ ContaCorrente herda de Conta e redefine sacar() com regras específicas.
 
 ---
 
+```
+
 **Como Executar o Sistema**
 
 1. Clone o Repositório
@@ -141,7 +143,8 @@ python main.py
 
 ---
 
-🧪 Fluxo de Uso Recomendado
+
+🧪 **Fluxo de Uso Recomendado**
 
 1. [nu] Novo Usuário → Cadastrar cliente (obrigatório).
 
@@ -165,7 +168,7 @@ python main.py
 
 ---
 
-🛠️ Tecnologias Utilizadas
+🛠️ **Tecnologias Utilizadas**
 
 🐍 Python 3.10+
 
@@ -177,7 +180,7 @@ python main.py
 
 ---
 
-📄 Licença
+📄 **Licença**
 
 Este projeto está licenciado sob a Licença MIT.
 Sinta-se à vontade para usar, estudar e melhorar! 🙌
@@ -185,7 +188,7 @@ Sinta-se à vontade para usar, estudar e melhorar! 🙌
 
 ---
 
-🌟 Contribuições
+🌟 **Contribuições**
 
 Contribuições são bem-vindas!
 Abra uma issue ou envie um pull request com sugestões de melhoria.
