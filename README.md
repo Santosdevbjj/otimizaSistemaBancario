@@ -101,6 +101,8 @@ Ignora:
 Mantendo o repositório **limpo e organizado** ✅
 
 ---
+```
+
 
 ## 🧭 Diagrama UML Simplificado
 
