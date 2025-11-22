@@ -193,5 +193,14 @@ Sinta-se à vontade para usar, estudar e melhorar! 🙌
 Contribuições são bem-vindas!
 Abra uma issue ou envie um pull request com sugestões de melhoria.
 
+---
+
+**Contato:**
+
+[![Portfólio Sérgio Santos](https://img.shields.io/badge/Portfólio-Sérgio_Santos-111827?style=for-the-badge&logo=githubpages&logoColor=00eaff)](https://santosdevbjj.github.io/portfolio/)
+[![LinkedIn Sérgio Santos](https://img.shields.io/badge/LinkedIn-Sérgio_Santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/santossergioluiz) 
+
+
+---
 
 
